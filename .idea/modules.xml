@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IO流/IO流.iml" filepath="$PROJECT_DIR$/IO流/IO流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lamda/lamda.iml" filepath="$PROJECT_DIR$/lamda/lamda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/senior.iml" filepath="$PROJECT_DIR$/senior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/反射/反射.iml" filepath="$PROJECT_DIR$/反射/反射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/常用类/常用类.iml" filepath="$PROJECT_DIR$/常用类/常用类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/枚举/枚举.iml" filepath="$PROJECT_DIR$/枚举/枚举.iml" />
+      <module fileurl="file://$PROJECT_DIR$/泛型与file/泛型与file.iml" filepath="$PROJECT_DIR$/泛型与file/泛型与file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/网络编程/网络编程.iml" filepath="$PROJECT_DIR$/网络编程/网络编程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/集合/集合.iml" filepath="$PROJECT_DIR$/集合/集合.iml" />
+    </modules>
+  </component>
+</project>
