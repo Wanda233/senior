@@ -6,6 +6,8 @@ public class SeasonTest {
 
        // Season season = new Season("xia","kjj");
 
+
+        spring.toString();
         spring.show();
     }
 

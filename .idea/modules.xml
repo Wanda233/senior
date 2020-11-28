@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IO流/IO流.iml" filepath="$PROJECT_DIR$/IO流/IO流.iml" />
       <module fileurl="file://$PROJECT_DIR$/lamda/lamda.iml" filepath="$PROJECT_DIR$/lamda/lamda.iml" />
-      <module fileurl="file://$PROJECT_DIR$/senior.iml" filepath="$PROJECT_DIR$/senior.iml" />
       <module fileurl="file://$PROJECT_DIR$/反射/反射.iml" filepath="$PROJECT_DIR$/反射/反射.iml" />
       <module fileurl="file://$PROJECT_DIR$/常用类/常用类.iml" filepath="$PROJECT_DIR$/常用类/常用类.iml" />
       <module fileurl="file://$PROJECT_DIR$/枚举/枚举.iml" filepath="$PROJECT_DIR$/枚举/枚举.iml" />
